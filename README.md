@@ -6,7 +6,7 @@ Me acabo de egresar del Bootcamp SoyHenry💛 como Desarrollador web Full Stack,
 
 ---
 
-##  Estas son mis habilidades 📚
+##  Tecnologias que manejo 📚
 
 ###  Lenguajes
 
