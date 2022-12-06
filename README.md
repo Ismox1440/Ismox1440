@@ -1,6 +1,6 @@
 #  Buenas 👋, Soy Ismael Saragusti
 
-Hola, Soy Isma. Tengo 20 años, y soy de Cordoba, Argentina.
+Soy Isma. Tengo 20 años, y soy de Cordoba, Argentina.
 
 Me acabo de egresar del Bootcamp SoyHenry💛 como Desarrollador web Full Stack, y me encuentro en busqueda de mi primer trabajo IT.
 
