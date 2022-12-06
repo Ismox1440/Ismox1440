@@ -2,7 +2,7 @@
 ---
 ## Desarrollador web Full Stack. De Cordoba Argentina
 
-##  Habilidades 📚
+##  Mis Habilidades 📚
 
 ###  Lenguajes
 
