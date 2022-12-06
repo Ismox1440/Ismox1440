@@ -1,5 +1,5 @@
 #  Buenas 👋, Soy Ismael Saragusti
---
+---
 ## Desarrollador web Full Stack. De Cordoba Argentina
 
 ##  Habilidades 📚
@@ -44,5 +44,6 @@
 
 ##  Si te interesa saber mas sobre mi! ✍🏽
 
-!📫 Email: ismael.saragusti24@gmail.com 
-!🧷 [Mi Perfil de LinkedIn](https://www.linkedin.com/in/ismael-saragusti-664260213/) 
+📫 Email: ismael.saragusti24@gmail.com 
+
+🧷 [Mi Perfil de LinkedIn](https://www.linkedin.com/in/ismael-saragusti-664260213/) 
