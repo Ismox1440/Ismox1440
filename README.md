@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://res.cloudinary.com/dlekwh1wn/image/upload/v1679711016/banner-portfolio.png)" width="100"/>
+  <img src="https://res.cloudinary.com/dlekwh1wn/image/upload/v1679711016/banner-portfolio.png" />
 </div>
 
 #  Buenas 👋, Soy Ismael Saragusti
