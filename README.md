@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://res.cloudinary.com/dlekwh1wn/image/upload/v1679711016/banner-portfolio.png)" width="100"/>
+</div>
+
 #  Buenas 👋, Soy Ismael Saragusti
 
 Soy Isma. Tengo 20 años, y soy de Cordoba, Argentina🌎.
