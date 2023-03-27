@@ -2,6 +2,15 @@
   <img src="https://res.cloudinary.com/dlekwh1wn/image/upload/v1679711016/banner-portfolio.png" />
 </div>
 
+<div id="badges">
+  <a target="_blank" href="https://www.linkedin.com/in/ismael-saragusti-664260213/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a target="_blank" href="https://twitter.com/ismaadev">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 #  Buenas 👋, Soy Ismael Saragusti
 
 Soy Isma. Tengo 20 años, y soy de Cordoba, Argentina🌎.
